@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Hey there 👋
 
-I’m Bryan, a software engineering student from Brazil. I have interesting in web3 development and UX/UI.
+I’m Bryan, a software engineer from Brazil.
 
 <!--
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
